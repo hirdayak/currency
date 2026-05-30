@@ -1,0 +1,5 @@
+- [x] Update paisa.html to include button and links
+- [x] Add falling animation styles to paisa.css
+- [x] Add click handler in script1.js for money rain
+- [x] Add big image to paisa.html
+- [x] Add song playback on click
